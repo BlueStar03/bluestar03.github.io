@@ -1,3 +1,5 @@
-title: "BlueStar03"
-description: "A simple Jekyll site hosted on GitHub Pages"
-theme: jekyll-theme-minimal
+title: Bluestar03
+description: >-
+  A simple Jekyll site on GitHub Pages.
+# You can use any supported theme from GitHub Pages. E.g. "minima"
+theme: minima
