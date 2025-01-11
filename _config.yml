@@ -27,5 +27,12 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "zBuLe" 
+      author: "zBuLe"
+
+  - 
+    scope:
+      path: ""
+      type: "destiny-saga"
+    values:
+      layout: "doc"
  
