@@ -4,3 +4,10 @@
 
 layout: home
 ---
+# Destiny Saga
+
+Below is a list of all chapters in the saga:
+
+{% for chapter in site.destiny-saga %}
+- [{{ chapter.title }}]({{ chapter.url }})
+{% endfor %}
