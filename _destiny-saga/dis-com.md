@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Dis Com
 date: 2024-10-22 03:02:57 -0800
 ---

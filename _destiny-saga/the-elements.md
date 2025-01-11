@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "The Elements"
-category: destiny-saga
 ---
 # The Elements 
 

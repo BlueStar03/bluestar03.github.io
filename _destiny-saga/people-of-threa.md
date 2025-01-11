@@ -1,3 +1,8 @@
+---
+title: People of Threa
+author: zBuLe
+date: 2023-10-05
+---
 # People of Threa
 by order of creation.
 

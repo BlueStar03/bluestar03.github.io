@@ -1,3 +1,8 @@
+---
+title: Stats
+author: zBuLe
+date: 2023-10-05
+---
 # Stats
 - range is from 0 - 255
 - divided into tiers

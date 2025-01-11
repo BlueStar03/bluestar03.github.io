@@ -1,15 +1,7 @@
 ---
-title: "The Creation of Threa"
-author: "zBuLe"
+title: The Creation of Threa
+author: zBuLe
 date: 2025-01-10 13:44:23 -0800
-categories: 
-  - "Fantasy"
-  - "Lore"
-tags: 
-  - "Creation Myth"
-  - "Primordials"
-  - "Elements"
-  - "World Building"
 ---
 
 
