@@ -1,5 +1,7 @@
 ---
-title: "The Elements"
+title: The Elements
+author: zBuLe
+date: 2025-01-11 07:05:25 -0800
 ---
 # The Elements 
 

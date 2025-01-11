@@ -2,7 +2,6 @@
 title: Chronicle of Destiny - Game Design Document
 author: zBuLe
 date: 2023-10-05
-permalink: /gdd/
 ---
 
 # Chronicle of Destiny - Game Design Document

@@ -7,4 +7,4 @@ description: "Description of the Frill people"
 
 # Frill
 
-<!-- Content goes here -->
+wip

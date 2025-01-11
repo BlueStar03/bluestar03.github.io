@@ -1,7 +1,7 @@
 ---
 title: People of Threa
 author: zBuLe
-date: 2023-10-05
+date: 2023-10-05 07:06:45 -0800
 ---
 # People of Threa
 by order of creation.
