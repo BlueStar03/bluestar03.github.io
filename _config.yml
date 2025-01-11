@@ -2,7 +2,7 @@ title: My Jekyll Site
 description: >-
   A simple Jekyll site on GitHub Pages.
 # You can use any supported theme from GitHub Pages. E.g. "minima"
-# theme: minima
+theme: minima
 
 
 email: zbule@bluestar03.com
