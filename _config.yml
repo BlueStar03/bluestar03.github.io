@@ -34,5 +34,6 @@ defaults:
       path: ""
       type: "destiny-saga"
     values:
-      layout: "doc"
+      layout: "page"
+      author: "zBuLe"
  
