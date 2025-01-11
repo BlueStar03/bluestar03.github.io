@@ -15,7 +15,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: zBuLe
 github_username:  zBuLe
 
-
+collections:
+  destiny-saga:
+    output: true
+    permalink: /destiny-saga/:title/
 
 defaults:
   - 
