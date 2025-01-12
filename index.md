@@ -3,7 +3,7 @@ layout: home
 ---
 
 ## Chronicle Destiny
-- [Game Design Document](/chronicle-destiny/gdd)
+- [Game Design Document](/chronicle-destiny/chronicle-destiny-gdd)
   - [Lyndi's Chronicle](/chronicle-destiny/lyndis-chronicle)
   - [Yol's Chronicle](/chronicle-destiny/yols-chronicle)
   - [Rilo's Chronicle](/chronicle-destiny/rilos-chronicle) 
