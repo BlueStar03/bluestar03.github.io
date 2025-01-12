@@ -6,16 +6,12 @@
     <title>{{ page.title }}</title>
 </head>
 <body>
-    <header>
-        <h1><a href="/">{{ site.title }}</a></h1>
-    </header>
+    {%- include header.html -%}
 
     <main>
         {{ content }}
     </main>
+{%- include footer.html -%}
 
-    <footer>
-        <p>&copy; {{ site.time | date: "%Y" }} {{ site.author }}</p>
-    </footer>
 </body>
 </html>
