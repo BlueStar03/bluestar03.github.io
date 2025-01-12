@@ -1,11 +1,6 @@
 title: Destiny Saga
 author: zBuLe
-description: >-
-  A simple Jekyll site on GitHub Pages.
-# You can use any supported theme from GitHub Pages. E.g. "minima"
 theme: minima
-
-
 email: zbule@bluestar03.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
