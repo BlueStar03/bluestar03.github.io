@@ -6,18 +6,31 @@ title: "Index of Files"
 
 Below is a list of all chapters in the saga, organized by category:
 
-{% assign grouped_by_folder = site.destiny-saga | group_by: "dir" %}
+{% assign grouped_files = site.destiny-saga %}
 
-{% for folder in grouped_by_folder %}
-  <h2>{{ folder.name | capitalize }}La</h2>
-  <ul>
-    {% for item in folder.items %}
-      <li>
-        <a href="{{ item.url }}">{{ item.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
+{% assign categories = "" %}
+
+{% for file in grouped_files %}
+  {% assign folder = file.path | split: '/' | first %}
+
+  {% unless categories contains folder %}
+    {% assign categories = categories | append: folder | append: "," %}
+    <h2>{{ folder | capitalize }}</h2>
+    <ul>
+  {% endunless %}
+
+  {% if file.path contains folder %}
+    <li>
+      <a href="{{ file.url }}">{{ file.title }}</a>
+    </li>
+  {% endif %}
+  
+  {% if forloop.last %}
+    </ul>
+  {% endif %}
 {% endfor %}
+
+---
 
 date: 2025-01-11 19:21:00 -0800
 author: "zBuLe"
