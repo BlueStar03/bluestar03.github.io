@@ -1,24 +1,20 @@
 ---
 title: "Index of Files"
+---
+
 date: 2025-01-11 19:21:00 -0800
 author: "zBuLe"
 description: "Description of the Corlee people"
----
 
 
-# Destiny Saga Files
+# Destiny Saga
 
-{% assign grouped_files = site.destiny-saga | group_by_exp: "file", "file.path | split: '/' | last | prepend: file.path | split: '/' | slice: 0, -1 | join: '/'" %}
+Below is a list of all chapters in the saga:
 
 <ul>
-{% for group in grouped_files %}
-  <li>
-    <strong>{{ group.name }}</strong>
-    <ul>
-      {% for file in group.items %}
-        <li><a href="{{ file.url }}">{{ file.title }}</a></li>
-      {% endfor %}
-    </ul>
-  </li>
-{% endfor %}
+  {% for chapter in site.destiny-saga %}
+    <li>
+      <a href="{{ chapter.url }}">{{ chapter.title }}</a>
+    </li>
+  {% endfor %}
 </ul>
