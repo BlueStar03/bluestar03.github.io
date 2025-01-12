@@ -2,6 +2,14 @@
 title: "Index of Files"
 ---
 
+[Destiny Saga Chapters]({{ site.baseurl }}/destiny-saga/)
+
+{% for item in site.destiny-saga %}
+- [{{ item.title }}]({{ item.url }})
+{% endfor %}
+
+
+
 # Destiny Saga Index
 
 Here are all the chapters in the Destiny Saga, grouped by category:
