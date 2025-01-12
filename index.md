@@ -27,17 +27,6 @@ layout: home
 |                              | [Aria](destiny-saga/aria)       | [Jin](destiny-saga/jin)       | [Kapopa](destiny-saga/kapopa) |
 
 
-- 
-
--
--
--
--
--
--
--
-- 
-
 ### Mechanics
 - [people](destiny-saga/people-of-threa)
 - [stats](destiny-saga/stats)
