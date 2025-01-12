@@ -2,6 +2,8 @@
 layout: home
 ---
 
+[Destiny Saga](/destiny-saga)
+
 ## Chronicle Destiny  
 - [GDD](destiny-saga/chronicle-destiny-gdd)
 - [Lindy's Chronicle](/destiny-saga/lindys-chronicle)
