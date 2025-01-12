@@ -4,35 +4,18 @@ title: "Index of Files"
 
 # Destiny Saga
 
-Below is a list of all chapters in the saga, organized by category:
+Below is a list of all items in the Destiny Saga collection, grouped by their respective categories:
 
-{% assign grouped_files = site.destiny-saga %}
+{% assign grouped_items = site.destiny-saga | group_by: "dir" %}
 
-{% assign categories = "" %}
-
-{% for file in grouped_files %}
-  {% assign folder = file.path | split: '/' | first %}
-
-  {% unless categories contains folder %}
-    {% assign categories = categories | append: folder | append: "," %}
-    <h2>{{ folder | capitalize }}</h2>
-    <ul>
-  {% endunless %}
-
-  {% if file.path contains folder %}
-    <li>
-      <a href="{{ file.url }}">{{ file.title }}</a>
-    </li>
-  {% endif %}
-  
-  {% if forloop.last %}
-    </ul>
-  {% endif %}
+{% for group in grouped_items %}
+  <h2>{{ group.name | capitalize }}</h2>
+  <ul>
+    {% for item in group.items %}
+      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+    {% endfor %}
+  </ul>
 {% endfor %}
 
----
-
-date: 2025-01-11 19:21:00 -0800
-author: "zBuLe"
-description: "Description of the Corlee people"
+date: 2025-01-11 19:21:00 -0800  
 
