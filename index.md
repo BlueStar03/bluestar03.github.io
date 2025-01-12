@@ -16,7 +16,8 @@ layout: home
 - [Creation]((/destiny-saga/creation))
 
 ### People
-|Perfect|Pure|Union 1st Gen| Union 2nd Gen|
+
+|Perfect                       |Pure                             |Union 1st Gen                  | Union 2nd Gen                 |
 |:-----------------------------|:--------------------------------|:------------------------------|:------------------------------|
 |[Aetha](destiny-saga/aetha)   | [Frill](destiny-saga/frill)     | [Mort](destiny-saga/mort)     | [Imoh](destiny-saga/imoh)     |
 |[Dreavi](destiny-saga/dreavi) | [Duga](destiny-saga/duga)       | [Lauril](destiny-saga/lauril) | [Corlee](destiny-saga/corlee) |
