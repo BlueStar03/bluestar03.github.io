@@ -19,7 +19,7 @@ github_username:  zBuLe
 collections:
   destiny-saga:
     output: true
-    sort_by: lesson
+    sort_by: order
     permalink: /:collection/:name
 
 defaults:
