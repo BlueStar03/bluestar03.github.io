@@ -12,24 +12,24 @@ layout: home
 - [wip](/chronicle-destiny/gdd)
 
 ## Threa
-- [The Elements](/elements)
-- [Creation]((/creation))
+- [The Elements](threa/elements)
+- [Creation](/threa/creation)
 
 ### People
 
-|Perfect                       |Pure                             |Union 1st Gen                  | Union 2nd Gen                 |
-|:-----------------------------|:--------------------------------|:------------------------------|:------------------------------|
+|Perfect                 |Pure                       |Union 1st Gen            | Union 2nd Gen           |
+|:-----------------------|:--------------------------|:------------------------|:------------------------|
 |[Aetha](people/aetha)   | [Frill](people/frill)     | [Mort](people/mort)     | [Imoh](people/imoh)     |
 |[Dreavi](people/dreavi) | [Duga](people/duga)       | [Lauril](people/lauril) | [Corlee](people/corlee) |
 |[Nawa](people/nawa)     | [Dis Com](people/dis-com) | [Zeur](people/zeur)     | [Rowlf](people/rowlf)   |
-|                              | [Ma Hir](people/ma-hir)   | [Minka](people/minka)   | [Nink](people/nink)     |
-|                              | [Lor](people/lor)         | [Murai](people/murai)   | [Redn](people/redn)     |
-|                              | [Aria](people/aria)       | [Jin](people/jin)       | [Kapopa](people/kapopa) |
+|                        | [Ma Hir](people/ma-hir)   | [Minka](people/minka)   | [Nink](people/nink)     |
+|                        | [Lor](people/lor)         | [Murai](people/murai)   | [Redn](people/redn)     |
+|                        | [Aria](people/aria)       | [Jin](people/jin)       | [Kapopa](people/kapopa) |
 
 
 ### Mechanics
-- [people](people/people-of-threa)
-- [stats](people/stats)
+- [people](mech/people-)
+- [stats](/mech/stats)
 
 
 
