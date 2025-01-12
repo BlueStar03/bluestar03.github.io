@@ -1,15 +1,10 @@
 ---
 layout: home
 ---
-<details>
-  <summary>GDD</summary>
-  [Destiny Saga](/destiny-saga/)
-  [Destiny Saga](/destiny-saga/)
-  [Destiny Saga](/destiny-saga/)
-</details>
 
-
-## Projects
+{% for item in site.destiny-saga %}
+- [{{ item.title }}]({{ item.url }})
+{% endfor %}
 
 [Destiny Saga](/destiny-saga/)
 
