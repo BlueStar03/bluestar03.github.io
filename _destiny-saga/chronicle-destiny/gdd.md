@@ -1,5 +1,5 @@
 ---
-title: Chronicle of Destiny - Game Design Document
+title: Chronicle Destiny - Game Design Document
 author: zBuLe
 date: 2023-10-05
 order: 1
