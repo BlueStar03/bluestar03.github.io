@@ -21,6 +21,7 @@ date: 2023-10-05 07:05:39 -0800
 | Epic      | 250 - 255 | {★★★★★}  |All Shines|
 
 ## Character Stats
+
 | stat | description |
 |---|---|
 |Vitality| the character’s life force and overall health. If depleted, the character dies. Passivly regenerates|
@@ -31,6 +32,10 @@ date: 2023-10-05 07:05:39 -0800
 | Agility| |
 | Speed| |
 | Will | |
+
+|Vt | St| Fc| St| En| Ag| Sp| Wl|
+|---|---|---|---|---|---|---|---|
+|   |   |   |   |   |   |   |   |
 
 
 
