@@ -16,27 +16,26 @@ layout: home
 - [Creation]((/destiny-saga/creation))
 
 ### People
-- [Frill](destiny-saga/frill)
-- [Duga](destiny-saga/duga)
-- [Dis Com](destiny-saga/dis-com)
-- [Ma Hir](destiny-saga/ma-hir)
-- [Lor](destiny-saga/lor)
-- [Aria](destiny-saga/aria)
-- [Mort](destiny-saga/mort)
-- [Lauril](destiny-saga/lauril)
-- [Zeur](destiny-saga/zeur)
-- [Minka](destiny-saga/minka)
-- [Murai](destiny-saga/murai)
-- [Jin](destiny-saga/jin)
-- [Imoh](destiny-saga/imoh)
-- [Corlee](destiny-saga/corlee)
-- [Rowlf](destiny-saga/rowlf)
-- [Nink](destiny-saga/nink)
-- [Redn](destiny-saga/redn)
-- [Kapopa](destiny-saga/kapopa)
-- [Aetha](destiny-saga/aetha)
-- [Dreavi](destiny-saga/dreavi)
-- [Nawa](destiny-saga/nawa)
+|Perfect|Pure|Union 1st Gen| Union 2nd Gen|
+|:-----------------------------|:--------------------------------|:------------------------------|:------------------------------|
+|[Aetha](destiny-saga/aetha)   | [Frill](destiny-saga/frill)     | [Mort](destiny-saga/mort)     | [Imoh](destiny-saga/imoh)     |
+|[Dreavi](destiny-saga/dreavi) | [Duga](destiny-saga/duga)       | [Lauril](destiny-saga/lauril) | [Corlee](destiny-saga/corlee) |
+|[Nawa](destiny-saga/nawa)     | [Dis Com](destiny-saga/dis-com) | [Zeur](destiny-saga/zeur)     | [Rowlf](destiny-saga/rowlf)   |
+|                              | [Ma Hir](destiny-saga/ma-hir)   | [Minka](destiny-saga/minka)   | [Nink](destiny-saga/nink)     |
+|                              | [Lor](destiny-saga/lor)         | [Murai](destiny-saga/murai)   | [Redn](destiny-saga/redn)     |
+|                              | [Aria](destiny-saga/aria)       | [Jin](destiny-saga/jin)       | [Kapopa](destiny-saga/kapopa) |
+
+
+- 
+
+-
+-
+-
+-
+-
+-
+-
+- 
 
 ### Mechanics
 - [people](destiny-saga/people-of-threa)
