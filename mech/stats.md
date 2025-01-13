@@ -24,13 +24,13 @@
 |VTL | Vitality  | The character’s life force and overall health. If depleted, the character dies. Passively regenerates.                                                             |
 |STA | Stamina   | Affects mobility. Consumed with every action. When depleted, the character will struggle. Regenerates over time.                                                   |
 |FCS | Focus     | Enhances accuracy, skill execution, and regeneration rates. Depletion hinders these effects. Regenerates when still.                                               |
-| St | Strength  | affects attack damage dealt. modified by stamina. also affects carry capacity.                                                                                     |
+| Pw | Power     | affects attack damage dealt. modified by stamina. also affects carry capacity.                                                                                     |
 | En | Endurance | affects defense, damage resistance, and status effect resistance. Modified by focus.                                                                               |
 | Ag | Agility   | affects stealth, movement, quick action, greater reach and coverage. Saving grace for stealth. Better coyote time when jumping. Affects critical hits and parries. |
 | Sp | Speed     | affects movement and attack speed. Influences defensive actions and quick action windows. Modified by stamina and focus.                                           |
 
 
-| People  |El1|El2|  VTL|  STA|  FCS|   St|   En|   Ag|   Sp|
+| People  |El1|El2|  VTL|  STA|  FCS|   Pw|   En|   Ag|   Sp|
 |:--------|---|---|-----|-----|-----|-----|-----|-----|-----|
 | Frill   |Ice|   |++++ |+++  |+++  |++++ |++   |++   |+++  |
 | Duga    |Ltg|   |++++ |++   |++++ |++   |+++  |++++ |++++ |
@@ -54,7 +54,7 @@
 | Dreavi  |Ert|Wtr|*****|*****|*****|*****|*****|*****|*****|
 | Nawa    |Ice|Ltg|+++  |+++  |+++  |+++  |+++  |+++  |+++  |
 
-|         | VTL   | STM   | FCS   | St    | En    | Sp    | Ag    |
+|         | VTL   | STM   | FCS   | Pw    | En    | Sp    | Ag    |
 |---------|-------|-------|-------|-------|-------|-------|-------|
 | Frill   | +++   | +++   | +++   | +++   | ++    | ++    | ++    |
 | Duga    | ++    | +     | ++++  | +     | ++    | ++++  | ++++  |
@@ -81,7 +81,7 @@
 
 #### refined
 
-|         | VTL   | STM   | FCS   | St    | En    | Sp    | Ag    |
+|         | VTL   | STM   | FCS   | Pw    | En    | Sp    | Ag    |
 |---------|-------|-------|-------|-------|-------|-------|-------|
 | Frill   | +++   | +++   | +++   | +++   | ++    | ++    | ++    |
 | Duga    | ++    | +     | ++++  | +     | ++    | ++++  | ++++  |
