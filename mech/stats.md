@@ -6,15 +6,15 @@
 
 |abbr|Descriptor | Range     | Stars    |           |
 |---:|:----------|:---------:|:---------|----------:|
-| No | None      | 0         | [◌◌◌◌◌]  | No Stars  |
-| Bd | Bad       | 1 - 33    | [∘◌◌◌◌]  | Dull Star |
-| Lo | Low       | 34 - 68   | [○◌◌◌◌]  | 1 Star    |
-| Fr | Fair      | 69 - 105  | [○○◌◌◌]  | 2 Stars   |
-| Gd | Good      | 106 - 144 | [○○○◌◌]  | 3 Stars   |
-| Gr | Great     | 145 - 181 | [○○○○◌]  | 4 Stars   |
-| Hi | High      | 182 - 216 | [○○○○○]  | 5 Stars   |
-| Ex | Excellent | 217 - 249 | [○○○○●]  | Shine Star|
-| Ep | Epic      | 250 - 255 | [●●●●●]  | All Shines|
+| No | None      | 0         | [     ]  | No Stars  |
+| Bd | Bad       | 1 - 33    | [.    ]  | Dull Star |
+| Lo | Low       | 34 - 68   | [+    ]  | 1 Star    |
+| Fr | Fair      | 69 - 105  | [++   ]  | 2 Stars   |
+| Gd | Good      | 106 - 144 | [+++  ]  | 3 Stars   |
+| Gr | Great     | 145 - 181 | [++++ ]  | 4 Stars   |
+| Hi | High      | 182 - 216 | [+++++]  | 5 Stars   |
+| Ex | Excellent | 217 - 249 | [++++*]  | Shine Star|
+| Ep | Epic      | 250 - 255 | [*****]  | All Shines|
 
 
 ## Character Stats
