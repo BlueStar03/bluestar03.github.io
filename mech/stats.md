@@ -4,6 +4,7 @@
 - divided into tiers
 
 
+<<<<<<< Updated upstream
 |Tier|abbr|Descriptor | Range     | Stars  |           |
 |---:|---:|:----------|:---------:|:-------|----------:|
 |  0 | No | None      | 0         |        | No Stars  |
@@ -15,6 +16,33 @@
 |  6 | Hi | High      | 182 - 216 | +++++  | 5 Stars   |
 |  7 | Ex | Excellent | 217 - 249 | ++++*  | Shine Star|
 |  8 | Ep | Epic      | 250 - 255 | *****  | All Shines|
+=======
+|Descriptor | Range     | Stars      |           |
+|:----------|:---------:|:-----------|----------:|
+| None      | 0         | [-----]    |No Stars   |
+| Bad       | 1 - 33    | [⭒----]    |Dull Star  |
+| Low       | 34 - 68   | [☆----]    |1 Star    |
+| Fair      | 69 - 105  | [☆☆---]   |2 Stars    |
+| Good      | 106 - 144 | [☆☆☆--]   |3 Stars   |
+| Great     | 145 - 181 | [☆☆☆☆-]   |4 Stars   |
+| High      | 182 - 216 | [☆☆☆☆☆]  |5 Stars   |
+| Excellent | 217 - 249 | [☆☆☆☆★]  |Shine Star|
+| Epic      | 250 - 255 | {★★★★★}  |All Shines|
+
+
+|Descriptor | Range     | Stars    |          |
+|:----------|:---------:|:---------|---------:|
+| None      | 0         | [     ]  |No Stars  |
+| Bad       | 1 - 33    | [.    ]  |Dull Star |
+| Low       | 34 - 68   | [+    ]  |1 Star    |
+| Fair      | 69 - 105  | [++   ]  |2 Stars   |
+| Good      | 106 - 144 | [+++  ]  |3 Stars   |
+| Great     | 145 - 181 | [++++ ]  |4 Stars   |
+| High      | 182 - 216 | [+++++]  |5 Stars   |
+| Excellent | 217 - 249 | [++++*]  |Shine Star|
+| Epic      | 250 - 255 | {*****}  |All Shines|
+
+>>>>>>> Stashed changes
 
 
 ## Character Stats
