@@ -50,7 +50,7 @@
 
   - **Increase Frustration**: Lannet having to drag Lyndi to the first room (Fail walk tutorial)
 
-[up](#toc)
+[↥](#toc)
 
   ---
 
@@ -72,7 +72,7 @@
 
   - **Increase Respect**: not triggering struggle state 
 
-[up](#toc)
+[▲](#toc)
 
   ---
 
