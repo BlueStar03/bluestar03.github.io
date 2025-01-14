@@ -7,8 +7,7 @@
 4. [Gameplay](#gameplay)
 
 
-## **Act 1**
-**Start of Rounds - Action Tutorial (Hidden Quick Action)**
+## Act 1: Start of Rounds - Action Tutorial (Hidden Quick Action) {#act-1}
 
 - **Scene Setup**: The screen fades in from white, panning down to reveal the area in front of the head nurse's office in a hospital.
 
