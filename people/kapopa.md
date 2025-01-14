@@ -7,5 +7,8 @@ description: "Description of the Kapopa people"
 
 # Kapopa
 
-wip
-!(Kapopa)[/images/kapopa_design_study.jpg]
+![The San Juan Mountains are beautiful!](/images/kapopa_design_study.jpg "San Juan Mountains")  
+
+![The San Juan Mountains are beautiful!](~/people/images/kapopa_design_study.jpg "San Juan Mountains")  
+
+![The San Juan Mountains are beautiful!](/images/kapopa_design_study.jpg "San Juan Mountains")  
