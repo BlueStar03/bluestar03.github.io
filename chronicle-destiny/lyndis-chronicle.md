@@ -6,7 +6,7 @@
 3. [Act 3: Clean the Room](#act-2)
 
 
-## Act 1: Start of Rounds - Action Tutorial (Hidden Quick Action) {#act-1}  [^](#toc)
+## Act 1: Start of Rounds - Action Tutorial (Hidden Quick Action) {#act-1}  
 
 - **Scene Setup**: The screen fades in from white, panning down to reveal the area in front of the head nurse's office in a hospital.
 
@@ -29,6 +29,8 @@
   - **Increase Frustration**: Lyndi being startled (failing the quick action). Lannet shoving the clipboard into Lyndi's hands (failing the action tutorial).
 
   - **Increase Respect**: Lyndi retaining her composure (quick action success)
+
+[^](#toc)
 
   ---
 
