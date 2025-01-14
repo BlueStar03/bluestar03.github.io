@@ -8,4 +8,6 @@ order: 27
 
 # Mort
 
-wip
+![mort Design Study](/images/mort_design_study.jpg "Mort Design Study")  
+
+## Appearance

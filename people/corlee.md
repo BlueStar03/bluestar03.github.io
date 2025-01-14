@@ -7,4 +7,6 @@ description: "Description of the Corlee people"
 
 # Corlee
 
-wip
+![Corlee Design Study](/images/corlee_design_study.jpg "Corlee Design Study")  
+
+## Appearance

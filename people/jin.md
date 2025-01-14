@@ -7,4 +7,6 @@ description: "Description of the Jin people"
 
 # Jin
 
-wip
+![jin Design Study](/images/jin_design_study.jpg "jin Design Study")  
+
+## Appearance

@@ -7,4 +7,6 @@ description: "Description of the Nink people"
 
 # Nink
 
-wip
+![Nink Design Study](/images/nink_design_study.jpg "Nink Design Study")  
+
+## Appearance

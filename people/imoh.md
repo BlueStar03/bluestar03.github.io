@@ -7,4 +7,6 @@ description: "Description of the Imoh people"
 
 # Imoh
 
-wip
+![imoh Design Study](/images/imoh_design_study.jpg "imoh Design Study")  
+
+## Appearance

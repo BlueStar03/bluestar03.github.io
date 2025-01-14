@@ -7,4 +7,6 @@ description: "Description of the Mika people"
 
 # Minka
 
-wip
+![minka Design Study](/images/minka_design_study.jpg "minka Design Study")  
+
+## Appearance

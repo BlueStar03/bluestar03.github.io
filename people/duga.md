@@ -8,4 +8,6 @@ order: 2.2
 
 # Duga
 
-wip
+![Duga Design Study](/images/duga_design_study.jpg "Duga Design Study")  
+
+## Appearance

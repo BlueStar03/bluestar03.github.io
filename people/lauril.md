@@ -8,4 +8,6 @@ order: 28
 
 # Lauril
 
-wip
+![lauril Design Study](/images/lauril_design_study.jpg "lauril Design Study")  
+
+## Appearance

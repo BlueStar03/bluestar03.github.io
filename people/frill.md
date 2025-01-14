@@ -8,4 +8,6 @@ order: 2.1
 
 # Frill
 
-wip
+![frill Design Study](/images/frill_design_study.jpg "frill Design Study")  
+
+## Appearance

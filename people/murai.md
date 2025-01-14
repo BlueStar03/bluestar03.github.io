@@ -7,4 +7,6 @@ description: "Description of the Murai people"
 
 # Murai
 
-wip
+![Murai Design Study](/images/murai_design_study.jpg "Murai Design Study")  
+
+## Appearance

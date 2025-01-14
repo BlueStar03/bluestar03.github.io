@@ -7,4 +7,6 @@ description: "Description of the Redn people"
 
 # Redn
 
-wip
+![Redn Design Study](/images/redn_design_study.jpg "Redn Design Study")  
+
+## Appearance

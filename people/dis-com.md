@@ -6,6 +6,10 @@ order: 2.3
 ---
 # Dis Com
 ---
+
+![Dis Com Design Study](/images/dis_com_design_study.jpg "Dis Com Design Study")  
+
+## Appearance
 This is a description of a race of people that live in the world of Threa, the Dis Com.
 
 The Dis Com are a society entirely governed by military command. They are a genderless, egalitarian, meritocratic autocracy

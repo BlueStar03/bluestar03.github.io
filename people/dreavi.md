@@ -7,4 +7,6 @@ description: "Description of the Dreavi people"
 
 # Dreavi
 
-wip
+![Dreavi Design Study](/images/dreavi_design_study.jpg "Dreavi Design Study")  
+
+## Appearance

@@ -8,4 +8,6 @@ description: "Description of the Nawa people"
 
 # Nawa
 
-# appearance
+![Nawa Design Study](/images/nawa_design_study.jpg "Nawa Design Study")  
+
+## Appearance

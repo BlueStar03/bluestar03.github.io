@@ -7,4 +7,6 @@ description: "Description of the Rowlf people"
 
 # Rowlf
 
-wip
+![Rowlf Design Study](/images/rowlf_design_study.jpg "Rowlf Design Study")  
+
+## Appearance

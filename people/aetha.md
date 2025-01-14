@@ -7,4 +7,6 @@ description: "Description of the Aetha people"
 
 # Aetha
 
-wip
+![Aetha Design Study](/images/aetha_design_study.jpg "Aetha Design Study")  
+
+## Appearance

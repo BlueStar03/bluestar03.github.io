@@ -8,4 +8,6 @@ order: 2.5
 
 # Lor
 
-wip
+![Lor Design Study](/images/Lor_design_study.jpg "Lor Design Study")  
+
+## Appearance
