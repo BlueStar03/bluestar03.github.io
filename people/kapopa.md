@@ -8,3 +8,4 @@ description: "Description of the Kapopa people"
 # Kapopa
 
 wip
+!(Kapopa)[/images/kapopa_design_study.jpg]
