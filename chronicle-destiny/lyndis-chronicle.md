@@ -1,13 +1,12 @@
 # Lyndi's Chronicle
 
-## Table of Contents
+## Table of Contents {#toc}
 1. [Act 1: Start of Rounds](#act-1)
 2. [Act 2: Walk to the First Room](#act-2)
-3. [Story and Setting](#story-and-setting)
-4. [Gameplay](#gameplay)
+3. [Act 3: Clean the Room](#act-2)
 
 
-## Act 1: Start of Rounds - Action Tutorial (Hidden Quick Action) {#act-1}
+## Act 1: Start of Rounds - Action Tutorial (Hidden Quick Action) {#act-1}  [^](#toc)
 
 - **Scene Setup**: The screen fades in from white, panning down to reveal the area in front of the head nurse's office in a hospital.
 
@@ -51,7 +50,7 @@
 
   ---
 
-## Act 3: Clean the Room - Action Tutorial
+## Act 3: Clean the Room - Action Tutorial {#act-3}
 
 - **Narrative**: Lyndi and Lannet enter a room with eight empty beds. Lannet cleans the four on the left, and Lyndi does the same to the ones on the right. They take the charts, and pick up and place the pillows on the beds.
 
