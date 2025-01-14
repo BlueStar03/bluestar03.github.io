@@ -30,7 +30,7 @@
 
   - **Increase Respect**: Lyndi retaining her composure (quick action success)
 
-[^](#toc)
+[up](#toc)
 
   ---
 
