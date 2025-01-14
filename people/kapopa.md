@@ -6,9 +6,18 @@ description: "Description of the Kapopa people"
 ---
 
 # Kapopa
+---
 
-![relative!](/images/kapopa_design_study.jpg "San Juan Mountains")  
+![relative!](/images/kapopa_design_study.jpg "rel")  
 
-![Tabsolute!](~/people/images/kapopa_design_study.jpg "San Juan Mountains")  
+---
 
-![Root!](/images/kapopa_design_study.jpg "San Juan Mountains")  
+![absolute!](~/people/images/kapopa_design_study.jpg "abs")  
+
+---
+
+![Root!](~/images/kapopa_design_study.jpg "rt")  
+
+---
+
+![Root absolute](~/images/kapopa_design_study.jpg "rta")  
