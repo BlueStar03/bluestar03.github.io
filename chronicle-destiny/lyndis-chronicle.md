@@ -50,6 +50,8 @@
 
   - **Increase Frustration**: Lannet having to drag Lyndi to the first room (Fail walk tutorial)
 
+[up](#toc)
+
   ---
 
 ## Act 3: Clean the Room - Action Tutorial {#act-3}
@@ -69,6 +71,8 @@
   - **Increase Frustration**: Each bed on the right side of the room that Lannet had to finish
 
   - **Increase Respect**: not triggering struggle state 
+
+[up](#toc)
 
   ---
 
