@@ -41,6 +41,8 @@
 - [Mode 3]
 
 **Controls:**  
+
+```
 Keyboard
 
 [ESC][                                      
@@ -114,6 +116,7 @@ Touch
 |   Jump|           [L]|            (B)|          {J}|
 | Attach|       [SPACE]|            (B)|          {A}|
 |  Pause|       [ENTER]|           (ST)|          {P}|
+```
 
 ## Characters
 **Main Characters:**  
