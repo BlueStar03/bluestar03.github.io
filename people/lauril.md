@@ -8,6 +8,6 @@ order: 28
 
 # Lauril
 
-![lauril Design Study](/images/lauril_design_study.jpg "lauril Design Study")  
+![lauril Design Study](/images/lauril_design_study.png "lauril Design Study")  
 
 ## Appearance

@@ -8,6 +8,6 @@ order: 2.2
 
 # Duga
 
-![Duga Design Study](/images/duga_design_study.jpg "Duga Design Study")  
+![Duga Design Study](/images/duga_design_study.png "Duga Design Study")  
 
 ## Appearance

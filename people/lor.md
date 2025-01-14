@@ -8,6 +8,6 @@ order: 2.5
 
 # Lor
 
-![Lor Design Study](/images/Lor_design_study.jpg "Lor Design Study")  
+![Lor Design Study](/images/lor_design_study.png "Lor Design Study")  
 
 ## Appearance

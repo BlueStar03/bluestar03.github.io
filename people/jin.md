@@ -7,6 +7,6 @@ description: "Description of the Jin people"
 
 # Jin
 
-![jin Design Study](/images/jin_design_study.jpg "jin Design Study")  
+![jin Design Study](/images/jin_design_study.png "jin Design Study")  
 
 ## Appearance

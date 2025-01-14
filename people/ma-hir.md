@@ -8,6 +8,6 @@ order: 2.4
 
 # Ma Hir
 
-![ma_hir Design Study](/images/ma_hir_design_study.jpg "ma_hir Design Study")  
+![ma_hir Design Study](/images/ma_hir_design_study.png "ma_hir Design Study")  
 
 ## Appearance

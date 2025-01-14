@@ -7,6 +7,6 @@ description: "Description of the Mika people"
 
 # Minka
 
-![minka Design Study](/images/minka_design_study.jpg "minka Design Study")  
+![minka Design Study](/images/minka_design_study.png "minka Design Study")  
 
 ## Appearance

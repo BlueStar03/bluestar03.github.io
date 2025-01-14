@@ -7,7 +7,7 @@ order: 2.3
 # Dis Com
 ---
 
-![Dis Com Design Study](/images/dis_com_design_study.jpg "Dis Com Design Study")  
+![Dis Com Design Study](/images/dis_com_design_study.png "Dis Com Design Study")  
 
 ## Appearance
 This is a description of a race of people that live in the world of Threa, the Dis Com.

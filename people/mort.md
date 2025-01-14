@@ -8,6 +8,6 @@ order: 27
 
 # Mort
 
-![mort Design Study](/images/mort_design_study.jpg "Mort Design Study")  
+![mort Design Study](/images/mort_design_study.png "Mort Design Study")  
 
 ## Appearance

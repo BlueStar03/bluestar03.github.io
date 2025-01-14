@@ -7,6 +7,6 @@ description: "Description of the Murai people"
 
 # Murai
 
-![Murai Design Study](/images/murai_design_study.jpg "Murai Design Study")  
+![Murai Design Study](/images/murai_design_study.png "Murai Design Study")  
 
 ## Appearance

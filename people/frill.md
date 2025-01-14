@@ -8,6 +8,6 @@ order: 2.1
 
 # Frill
 
-![frill Design Study](/images/frill_design_study.jpg "frill Design Study")  
+![frill Design Study](/images/frill_design_study.png "frill Design Study")  
 
 ## Appearance

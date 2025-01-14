@@ -8,6 +8,6 @@ order: 29
 
 # Zeur
 
-![Zeur Design Study](/images/zeur_design_study.jpg "Zeur Design Study")  
+![Zeur Design Study](/images/zeur_design_study.png "Zeur Design Study")  
 
 ## Appearance
