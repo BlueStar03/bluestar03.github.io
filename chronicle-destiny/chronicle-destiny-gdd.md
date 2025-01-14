@@ -41,7 +41,79 @@
 - [Mode 3]
 
 **Controls:**  
-[Description of the game's controls]
+Keyboard
+
+[ESC][                                      
+      [Q] [W] [E]
+       [A][S][D][F]      [J][K][L]      [ENTER]
+ 
+               [=====SPACE=====] 
+
+ [W][A][S][D] Move        [J] Dialog
+ [SPACE] Attack           [K] Action
+ [Q][E] Camera/ Menu      [L] Jump
+ [ESC] Pause
+
+
+Gamepad
+
+[=L=2=]                               [=R=2=]
+   .[--L-1--]- . ___               ___ . -[--R-1--].
+ /   . - - .         ' - . _ . - '                   \
+'  /         \                               (Y)      '
+| |    L 3    |      [SL]     [ST]        (X)   (B)   |
+|  \         /                               (A)      |
+|    ' - - '                          . - - .         |
+|            |                      /         \       |
+'          --+--                   |    R 3    |      '
+ \           |           . - .      \         /      / 
+   .                   /       \      ' - - '      .
+     ' - . _____ . - '           ' - . _____ . - '
+
+(LS) Move              (L1) Dialog     
+(RS) Camera/ Menu      (R2) Action      
+(ST) Pause             (A) Attack
+                       (B) Jump
+
+
+Touch
+
++-------+---------------+---------------+-------+
+|       |               |               |       |
+|   P   |               |               |   D   |
+|       |               |               |       |
+|-------+               |               +-------|
+|                       |                       |
+|                       |               +-------|
+|                       |               |       |
+|           M           |           A   |   J   |
+|                       |               |       |
+|                       |               +-------|
+|                       |                       |
+|                       |               +-------|
+|                       |               |       |
+|              +--------+--------+      |   C   |
+|              |        R        |      |       |
++--------------+--------+--------+------+-------+
+
+{P} Pause           {D} Dialog 
+{M} Move            {J} Jump 
+{R} Rotate Camera   {C} Action   
+{A} Attack
+
+
+
+**Mapping**  
+
+|       |Keyboard      |Gamepad        |Touch        |
+|:------|:------------:|:-------------:|:-----------:|
+|   Move|  [W][A][S][D]|           (LS)|          {M}|
+| Action|           [K]|           (R1)|          {C}|
+| Dialog|           [J]|           (L1)|          {D}|
+|   Menu|        [Q][E]|           (RS)|         Drag|
+|   Jump|           [L]|            (B)|          {J}|
+| Attach|       [SPACE]|            (B)|          {A}|
+|  Pause|       [ENTER]|           (ST)|          {P}|
 
 ## Characters
 **Main Characters:**  
