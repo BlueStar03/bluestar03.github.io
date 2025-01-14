@@ -8,7 +8,7 @@ description: "Description of the Kapopa people"
 # Kapopa
 ---
 
-![relative!](/images/kapopa_design_study.jpg "rel")  
+![relative!](image/kapopa_design_study.jpg "rel")  
 
 ---
 
@@ -16,7 +16,7 @@ description: "Description of the Kapopa people"
 
 ---
 
-![Root!](~/images/kapopa_design_study.jpg "rt")  
+![Root!](/images/kapopa_design_study.jpg "rt")  
 
 ---
 
