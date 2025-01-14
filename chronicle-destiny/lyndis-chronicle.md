@@ -2,12 +2,12 @@
 
 ## Table of Contents
 1. [Act 1: Start of Rounds](#act-1)
-2. [Game Overview](#game-overview)
+2. [Act 2: Walk to the First Room](#act-2)
 3. [Story and Setting](#story-and-setting)
 4. [Gameplay](#gameplay)
 
 
-## Act 1
+## **Act 1**
 **Start of Rounds - Action Tutorial (Hidden Quick Action)**
 
 - **Scene Setup**: The screen fades in from white, panning down to reveal the area in front of the head nurse's office in a hospital.
@@ -34,7 +34,7 @@
 
   ---
 
-## Act 2: Walk to the First Room - Walk Tutorial
+## Act 2: Walk to the First Room - Walk Tutorial {#act-2}
 
 - **Narrative**: Lannet tells Lyndi to follow her. They both walk to the first room.
 
