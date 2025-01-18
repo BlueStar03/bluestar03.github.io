@@ -11,11 +11,23 @@
 
 ## Characters {#characters}
 
-**Lyndi**
-Lyndi is an orphan who was adopted by a wealthy family later than most children. She chooses to return to a modest lifestyle and decides to become a nurse, inspired by her caretakers at the orphanage. The headmistress of the orphanage and the director of the nursing school are friends, and Lyndi was admitted to the school on the headmistress's recommendation. She is described as cheerful, tomboyish, and determined. She is compassionate and selfless, always seeing the positive in people, but she can also be reckless and somewhat absent-minded. She has friends living near the hospital. As a nurse, she is knowledgeable, proficient, dedicated, and has good bedside manners, especially with children, although she tends to be more emotional than logical. 
+### Main Characters
 
-**Lannet**
-Lannet comes from a challenging family background, where her parents frequently argue and her father struggles with alcohol addiction. She has two older brothers, one younger brother, and two younger sisters. Despite the lack of support from her family, Lannet has achieved success through her own determination and hard work. She is intelligent, quiet, reserved, assertive, and determined. Lannet is known for her strong-willed nature and does not appreciate intrusive behavior. She chose a career in nursing to create a better future for herself, distinct from the issues faced by her family. As a nurse, Lannet demonstrates proficiency and extensive knowledge. While she can maintain a polite demeanor, she is often perceived as distant and cold. However, she consistently provides exceptional care for her patients, always going above and beyond in her duties. 
+- **Lyndi (Player Character)**: She is an orphan who was adopted by a wealthy family later than most children. She chooses to return to a modest lifestyle and decides to become a nurse, inspired by her caretakers at the orphanage. The headmistress of the orphanage and the director of the nursing school are friends, and Lyndi was admitted to the school on the headmistress's recommendation. She is described as cheerful, tomboyish, and determined. She is compassionate and selfless, always seeing the positive in people, but she can also be reckless and somewhat absent-minded. She has friends living near the hospital. As a nurse, she is knowledgeable, proficient, dedicated, and has good bedside manners, especially with children, although she tends to be more emotional than logical. 
+
+- **Lannet (Companion Character)**: She comes from a challenging family background, where her parents frequently argue and her father struggles with alcohol addiction. She has two older brothers, one younger brother, and two younger sisters. Despite the lack of support from her family, Lannet has achieved success through her own determination and hard work. She is intelligent, quiet, reserved, assertive, and determined. Lannet is known for her strong-willed nature and does not appreciate intrusive behavior. She chose a career in nursing to create a better future for herself, distinct from the issues faced by her family. As a nurse, Lannet demonstrates proficiency and extensive knowledge. While she can maintain a polite demeanor, she is often perceived as distant and cold. However, she consistently provides exceptional care for her patients, always going above and beyond in her duties.
+
+### Secondary Characters
+
+- **Mr Kendri**: 
+
+- **Wilma**: 
+- **Flannie**: 
+- **Mr Roth**:
+- **Ms Liya**:
+- **Mr Gregor**:
+
+- **Director**:
 
 
 They both studied nursing together and were roommates but have never been friends. Lannet is distant and focused on her studies. They are both top students, though Lannet has higher marks. Despite their differences, Lannet respects Lyndi for being a great nurse, but finds her nosy and meddlesome at times. The director describes them as two sides of the same coin, with Lannet being focused and Lyndi being warm, two important aspects of being a great nurse. 
