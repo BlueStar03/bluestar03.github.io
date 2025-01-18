@@ -17,20 +17,27 @@
 
 - **Lannet (Companion Character)**: She comes from a challenging family background, where her parents frequently argue and her father struggles with alcohol addiction. She has two older brothers, one younger brother, and two younger sisters. Despite the lack of support from her family, Lannet has achieved success through her own determination and hard work. She is intelligent, quiet, reserved, assertive, and determined. Lannet is known for her strong-willed nature and does not appreciate intrusive behavior. She chose a career in nursing to create a better future for herself, distinct from the issues faced by her family. As a nurse, Lannet demonstrates proficiency and extensive knowledge. While she can maintain a polite demeanor, she is often perceived as distant and cold. However, she consistently provides exceptional care for her patients, always going above and beyond in her duties.
 
+They both studied nursing together and were roommates but have never been friends. Lannet is distant and focused on her studies. They are both top students, though Lannet has higher marks. Despite their differences, Lannet respects Lyndi for being a great nurse, but finds her nosy and meddlesome at times. The director describes them as two sides of the same coin, with Lannet being focused and Lyndi being warm, two important aspects of being a great nurse. 
+
 ### Secondary Characters
 
 - **Mr Kendri**: 
-
-- **Wilma**: 
-- **Flannie**: 
+- **Nurse Wilma**: 
+- **Nurse Flannie**: 
 - **Mr Roth**:
 - **Ms Liya**:
-- **Mr Gregor**:
+- **Mr Gregor**:  
+- **Nurse Deliah**:  
+- **Administrator**:  
+- **Director**:  
 
-- **Director**:
+### Other Characters
+- **Mr Gregor's Dog**: 
+- **Tina**: 
+- **Mr. Yara**: 
+- **Ms. Zoe**: 
 
 
-They both studied nursing together and were roommates but have never been friends. Lannet is distant and focused on her studies. They are both top students, though Lannet has higher marks. Despite their differences, Lannet respects Lyndi for being a great nurse, but finds her nosy and meddlesome at times. The director describes them as two sides of the same coin, with Lannet being focused and Lyndi being warm, two important aspects of being a great nurse. 
 
 ## Act 1: Start of Rounds - Action Tutorial (Hidden Quick Action) {#act-1}  
 
