@@ -9,9 +9,12 @@
 6. [Level Design](#level-design)
 7. [Art and Sound](#art-and-sound)
 8. [Technical Requirements](#technical-requirements)
-9. [Development Timeline](#development-timeline)
+9. [Marketing and Monetization](#marketing-and-monetization)
+10. [Development Timeline](#development-timeline)
+11. [Budget](#budget)
 10. [Team](#team)
 11. [Additional Notes](#additional-notes)
+12. [Reference Art](#reference-art)
 
 ## Game Title
 **Title:** [Your Game Title]
@@ -144,14 +147,18 @@ Touch
 [Description of the sound design]
 
 ## Technical Requirements
-**Engine:** [Game Engine]  
+**GameMaker:** [Game Engine]  
 **Hardware Requirements:** [Hardware Requirements]  
 **Software Requirements:** [Software Requirements]
+
+## Marketing and Monetization
 
 ## Development Timeline
 **Milestone 1:** [Description and Date]  
 **Milestone 2:** [Description and Date]  
 **Milestone 3:** [Description and Date]
+
+## Budget
 
 ## Team
 **Team Members:**  
@@ -160,3 +167,15 @@ Touch
 
 ## Additional Notes
 [Additional information or notes]
+
+## Reference Art
+
+*Kingdom Hearts: Chain of Memories*
+
+![KH:CoM01](/images/reference/ref-khcom-03.png "Kingdom Hearts: Chain of Memories")
+
+![KH:CoM02](/images/reference/ref_khcom-02.png "Kingdom Hearts: Chain of Memories")
+
+![KH:CoM03](/images/reference/ref_khcof-01.png "Kingdom Hearts: Chain of Memories")
+
+---
