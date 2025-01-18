@@ -28,7 +28,7 @@ They both studied nursing together and were roommates but have never been friend
 - **Ms Liya**:
 - **Mr Gregor**:  
 - **Nurse Deliah**:  
-- **Administrator**:  
+- **Administrator Mr. Viarn**:  
 - **Director**:  
 
 ### Other Characters
@@ -36,6 +36,11 @@ They both studied nursing together and were roommates but have never been friend
 - **Tina**: 
 - **Mr. Yara**: 
 - **Ms. Zoe**: 
+- **Dania**: A young lady who just finished seeing a doctor. She feels weak and appreciates Lyndi spending time to talk with her.
+- **Andrew**: A young man who is angry about being drafted to fight in the war. His friends have also been drafted, which adds to his frustration. He broke his arm on purpose to avoid being sent off. If Andrew is woken up during Act 4, he becomes less angry, as he was in a conversation with Mr. Kendri before falling asleep.
+- **Alora**: A young woman who is feeling depressed. She can be found sitting in Stairwell 1, and Lyndi can escort her back to her room in the infirmary.
+- **Ruen**
+- **Mr. Kalo**:
 
 
 
