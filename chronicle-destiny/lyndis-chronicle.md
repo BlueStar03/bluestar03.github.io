@@ -1,13 +1,38 @@
 # Lyndi's Chronicle
 
 ## Table of Contents {#toc}
-1. [Characters](#characters)
-1. [Act 1: Start of Rounds](#act-1)
-2. [Act 2: Walk to the First Room](#act-2)
-3. [Act 3: Clean the Room](#act-3)
-4. [Act 4: Mr. Kendri](#act-4)
-5. [Act 5: The Ward](#act-5)
+- [Synopsis](#synopsis)
+- [Characters](#characters)
+- [Setting](#setting)
+- [Controls](#controls)
+- [Act 1: Start of Rounds](#act-1)
+- [Act 2: Walk to the First Room](#act-2)
+- [Act 3: Clean the Room](#act-3)
+- [Act 4: Mr. Kendri](#act-4)
+- [Act 5: The Ward](#act-5)
+- [Act 6: Going Upstairs ](#act-6)
+- [Act 7: Private Rooms](#act-7)
+  - [Act 7.1: Mr. Roth](#act-7-1)
+  - [Act 7.2: Ms. Liya](#act-7-2)
+  - [Act 7.3: Mr. Gregor](#act-7-3)
+- [Act 8: ](#act-8)
+- [Act 9: ](#act-9)
+- [Act 10: ](#act-10)
+- [Act 11: ](#act-11)
+- [Act 12: ](#act-12)
+  - [Act 12.a: ](#act-12-a)
+  - [Act 12.b: ](#act-12-b)
+- [Act 13: ](#act-13)
+  - [Act 13.a: ](#act-13-a)
+  - [Act 13.b: ](#act-13-b)
+- [Epilogue](#epilogue)
+  - [Epilogue A](#epilogue-a)
+  - [Epilouge B](#epilogue-b)
+- [Summary](#summary)
 
+
+
+## Synopsis {#synopsis}
 
 ## Characters {#characters}
 
@@ -43,6 +68,9 @@ They both studied nursing together and were roommates but have never been friend
 - **Mr. Kalo**:
 
 
+## Setting {#setting}
+
+hospital
 
 ## Act 1: Start of Rounds - Action Tutorial (Hidden Quick Action) {#act-1}  
 
@@ -213,3 +241,119 @@ They both studied nursing together and were roommates but have never been friend
   - **Increase Respect**: Fulfilling additional tasks and requests from the patients, finishing her row.
 
   [TOP▲](#toc)
+
+## Act 6 {#act-6}
+
+[TOP▲](#toc)
+
+---
+
+
+## Act 7 {#act-7}
+
+[TOP▲](#toc)
+
+---
+
+
+### Act 7.1 {#act-7-1}
+
+[TOP▲](#toc)
+
+---
+
+### Act 7.2 {#act-7-2}
+
+[TOP▲](#toc)
+
+---
+
+### Act 7.3 {#act-7-3}
+
+[TOP▲](#toc)
+
+---
+
+## Act 8 {#act-8}
+
+[TOP▲](#toc)
+
+---
+
+## Act 9 {#act-9}
+
+[TOP▲](#toc)
+
+---
+
+## Act 10 {#act-10}
+
+[TOP▲](#toc)
+
+---
+
+## Act 11 {#act-11}
+
+[TOP▲](#toc)
+
+---
+
+## Act 12 {#act-12}
+
+[TOP▲](#toc)
+
+---
+
+### Act 12.a {#act-12-a}
+
+[TOP▲](#toc)
+
+---
+
+### Act 12.b {#act-12.b}
+
+[TOP▲](#toc)
+
+---
+
+## Act 13 {#act-13}
+
+[TOP▲](#toc)
+
+---
+
+### Act 13.a {#act-13.a}
+
+[TOP▲](#toc)
+
+---
+
+### Act 13.b {#act-13.b}
+
+[TOP▲](#toc)
+
+---
+
+## Epilogue {#epilogue}
+
+[TOP▲](#toc)
+
+### Epilogue A {#epilogue-a}
+
+[TOP▲](#toc)
+
+### Epilogue B {#epilogue-b}
+
+[TOP▲](#toc)
+
+## Summary {#summary}
+
+
+
+
+
+
+
+
+
+
