@@ -1,4 +1,4 @@
-# Alpha
+# Alpha 001
 
 <div class="gm4html5_div_class" id="gm4html5_div_id">
   <canvas id="canvas" width="640" height="360" >
