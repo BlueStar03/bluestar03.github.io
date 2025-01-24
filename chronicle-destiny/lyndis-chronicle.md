@@ -170,7 +170,7 @@ hospital
 
 ## Act 5: The Ward - Practice {#act-5}
 
-- **Narrative**: Lannet and Lyndi arrive at the ward, a large open room with 60 beds, organized in 4 rows of 15. Not all beds are occupied. There are two veteran nurses present. They instruct Lannet and Lyndi to help them check the patients.
+- **Narrative**: Lannet and Lyndi arrive at the ward, a large open room with 60 beds, organized in 4 rows of 15. Not all beds are occupied. There are two veteran nurses present, Wilma and Flannie. They instruct Lannet and Lyndi to help them check the patients.
 
 - **Row Selection**: There are two center rows and two outer rows.
 
@@ -180,7 +180,7 @@ hospital
 
   - If Lannet has to pick first, it depends on which veteran nurse is closest to Lyndi:
 
-    - If Lyndi is closest to the warm nurse, Lannet will pick one on the left side (either outer left or center left). Otherwise, she will pick one of the right rows.
+    - If Lyndi is closest to nurse Wilma, Lannet will pick one on the left side (either outer left or center left). Otherwise, she will pick one of the right rows.
 
     - If Lannet’s frustration is low, she will go to the row with the most patients on the chosen side. Otherwise, she will go to the one with the least patients.
 
@@ -188,7 +188,7 @@ hospital
 
     - Whichever nurse is closest to Lyndi will pick the closest row that aligns with their trait.
 
-    - The warm nurse will pick the row closest to Lyndi, and the focus nurse will pick the row closest to Lannet.
+    - Nurse Wilma will pick the row closest to Lyndi, and the Nurse Flannie will pick the row closest to Lannet.
 
     - The remaining veteran nurse will take the last row.
 
