@@ -168,79 +168,69 @@ hospital
 
 ---
 
-## Act 5: The Ward - Practice {#act-5}
+### **Act 5: The Ward - Practice**
 
-- **Narrative**: Lannet and Lyndi arrive at the ward, a large open room with 60 beds, organized in 4 rows of 15. Not all beds are occupied. There are two veteran nurses present, Wilma and Flannie. They instruct Lannet and Lyndi to help them check the patients.
+**Narrative**: Lannet and Lyndi arrive at the ward, a large open room with 60 beds, organized in 4 rows. Not all beds are occupied—there are **40 patients** in total. From **left to right**, each row has **13, 8, 10, and 9** patients, with the rest of the beds empty. There are two veteran nurses present, **Flannie** (the focus nurse) and **Wilma** (the warmth nurse), and they instruct Lannet and Lyndi to help them check the patients.
 
-- **Row Selection**: There are two center rows and two outer rows.
-
-  - If Lyndi picks a center row, Lannet will pick the other center row.
-
-  - If Lyndi picks an outer row, Lannet will pick the closest center row.
-
-  - If Lannet has to pick first, it depends on which veteran nurse is closest to Lyndi:
-
-    - If Lyndi is closest to nurse Wilma, Lannet will pick one on the left side (either outer left or center left). Otherwise, she will pick one of the right rows.
-
-    - If Lannet’s frustration is low, she will go to the row with the most patients on the chosen side. Otherwise, she will go to the one with the least patients.
-
-  - For the veteran nurses:
-
-    - Whichever nurse is closest to Lyndi will pick the closest row that aligns with their trait.
-
-    - Nurse Wilma will pick the row closest to Lyndi, and the Nurse Flannie will pick the row closest to Lannet.
-
+### **Row Selection**:
+- There are **two center rows** and **two outer rows**.
+  - If **Lyndi picks a center row**, Lannet will pick the other center row.
+  - If **Lyndi picks an outer row**, Lannet will pick the closest center row.
+  - If **Lannet has to pick first**, it depends on which veteran nurse is closest to Lyndi:
+    - If Lyndi is **closest to Wilma**, Lannet will pick one on the left side (either outer left or center left). Otherwise, she will pick one of the right rows.
+    - If **Lannet’s frustration is low**, she will go to the row with the most patients on the chosen side. Otherwise, she will go to the one with the least patients.
+  - For the **veteran nurses**:
+    - Whichever nurse is **closest to Lyndi** will pick the closest row that aligns with their trait.
+    - **Wilma** will pick the row closest to Lyndi, and **Flannie** will pick the row closest to Lannet.
     - The remaining veteran nurse will take the last row.
 
-- **Prompt**: "So you are the two new nurses helping with rounds today. You two can check one row."
+**Prompt**: "So you are the two new nurses helping with rounds today. You two can check one row."
 
-- **Action**: Check charts and talk to patients. They may have requests that Lyndi can choose to fulfill or not.
+### **Action**:
+- **Check charts** and **talk to patients**. They may have requests that Lyndi can choose to fulfill or not.
 
-- **Struggle**: When Lannet has passed her fifth bed and Lyndi hasn't reached her fifth bed, if Lannet is in an adjacent row: "Just check the charts and check the patients, keep things moving." If Lannet is not in an adjacent row, there will be no struggle.
+### **Struggle**:
+- When **Lannet has passed her fifth bed** and Lyndi hasn't reached her fifth bed, if Lannet is in an **adjacent row**, she will prompt: "Just check the charts and check the patients, keep things moving."
+- If **Lannet is not in an adjacent row**, there will be no struggle prompt.
 
-- **Fail**: Moments after Lannet finishes her row, she will go to Lyndi's row and finish whatever is left.
+### **Fail**:
+- Moments after **Lannet finishes her row**, she will go to Lyndi's row and finish whatever is left.
 
-- **Additional**: Patients may have requests, such as getting water or telling a joke. Lyndi can choose to comply or refuse.
+**Additional**:
+- **Patients may have requests**, such as getting water or telling a joke. Lyndi can choose to **comply or refuse**.
 
-- **Veteran Nurses**:
+### **Veteran Nurses (Flannie & Wilma)**:
+- At the end, **Flannie and Wilma** notice the dynamic between Lannet and Lyndi, similar to what the director sees. One nurse will comment on **focus**, and the other will comment on **warmth**.
+- **Whichever nurse finishes her row first** will make the comment. Both nurses are faster than Lannet, but their row’s difficulty determines which one finishes first.
+- If Lannet has to do **one bed on Lyndi's row**, the veteran nurse that finishes first will comment on Lannet:
 
-  - At the end, the veteran nurses notice the dynamic between Lannet and Lyndi, similar to what the director sees. One nurse will comment on focus, and the other will comment on warmth.
-
-  - Whichever nurse finishes her row first will make the comment. Both nurses are faster than Lannet, but their rows’ difficulty determines which one finishes first.
-
-  - If Lannet has to do one bed on Lyndi's row, the veteran nurse that finishes first will comment on Lannet:
-
-   - **Focus on Lannet**:
-
-     - **Neutral**: "You're focused. Lyndi can learn something from you."
-
-     - **High Frustration**: "You're pushing hard, but you need to watch your stress levels, Lannet."
-
-     - **High Respect**: "You always give it your best, Lannet. Your focus never falters."
+  - **Focus on Lannet**:
+    - **Neutral**: "You're focused. Lyndi can learn something from you."
+    - **High Frustration**: "You're pushing hard, but you need to watch your stress levels, Lannet."
+    - **High Respect**: "You always give it your best, Lannet. Your focus never falters."
 
   - **Warmth on Lannet**:
-
     - **Neutral**: "Your touch is a bit cold. You need to warm up to your patients."
-
     - **High Frustration**: "You're efficient, but it's showing in your demeanor. Patients can sense your stress."
-
     - **High Respect** (Subtle): "You handled things well today, but remember that a little warmth goes a long way."
 
-  - If Lannet doesn't have to finish any of Lyndi's row, the veteran nurse will comment on Lyndi:
+- If Lannet doesn’t have to finish any of Lyndi's row, the veteran nurse will comment on Lyndi:
 
-    - **Focus on Lyndi**: "Your focus is spot on. You two make a great team."
+  - **Flannie (Focus)**: "Your focus is spot on. You two make a great team."
+  - **Wilma (Warmth)**: "Your smile brings warmth to your patients."
 
-    - **Warmth on Lyndi**: "Your smile brings warmth to your patients."
+### **Impact on Lannet**:
+- **Increase Frustration**:
+  - Every bed Lannet has to finish in Lyndi's row.
+- **Decrease Frustration**:
+  - Not triggering the struggle state.
+- **Increase Respect**:
+  - Fulfilling additional tasks and requests from the patients.
+  - Finishing her row.
 
-- **Impact on Lannet**:
+[TOP▲](#toc)
 
-  - **Increase Frustration**: Every bed Lannet has to finish in Lyndi's row.
-
-  - **Decrease Frustration**: Not triggering the struggle state.
-
-  - **Increase Respect**: Fulfilling additional tasks and requests from the patients, finishing her row.
-
-  [TOP▲](#toc)
+ ---
 
 ## Act 6: Going Upstairs {#act-6}
 
