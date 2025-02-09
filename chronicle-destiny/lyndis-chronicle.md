@@ -279,26 +279,25 @@ Upon exiting the stairwell, regardless of the conversation's state, Lannet pause
 
   - **Conversation Mechanics**:
 
-    Normally, pressing the dialogue button will cause Lyndi to issue a simple greeting: "Hey, Lannet," to which Lannet always responds with "Not now," ending the conversation. Each attempt increases Lannet's frustration.
-    If the player pulls up the dialogue ring menu without a subtle dialogue prompt, it will just show the greeting dialogue and nothing else.
-    In the stairwell, when the subtle dialogue prompt appears, the ring menu will have "Lannet, why aren't we friends?" as an option. Selecting this starts the conversation.
-    After Lannet says, "What are you talking about?" the ring menu will show three of the replies, one from each category (Frustrated, Somber, Reflective). Selecting one will prompt Lannet's response.
-    Each time the ring menu is pulled up, a different set of three replies are shown. The dialogue button must be held for some time to bring up the ring menu, consuming time during the limited duration of the stairwell scene.
-    Pressing the dialogue button without pulling up the ring menu will cause Lyndi to stutter, prompting Lannet to stop briefly and respond with "What?" This increases Lannet's frustration.
-    The ring menu also has the option to end the conversation, with Lyndi replying, "Never mind," which decreases frustration.
-    Once outside the stairwell, after Lannet says, "Focus, we still have work to do," the interaction behaves as it did before, with Lyndi saying, "Hey Lannet" and Lannet replying, "Not now," dropping the conversation. The ring menu no longer shows additional options.
+    - Normally, pressing the dialogue button will cause Lyndi to issue a simple greeting: "Hey, Lannet," to which Lannet always responds with "Not now," ending the conversation. Each attempt increases Lannet's frustration.
+    - If the player pulls up the dialogue ring menu without a subtle dialogue prompt, it will just show the greeting dialogue and nothing else.
+    - In the stairwell, when the subtle dialogue prompt appears, the ring menu will have "Lannet, why aren't we friends?" as an option. Selecting this starts the conversation.
+    - After Lannet says, "What are you talking about?" the ring menu will show three of the replies, one from each category (Frustrated, Somber, Reflective). Selecting one will prompt Lannet's response.
+    - Each time the ring menu is pulled up, a different set of three replies are shown. The dialogue button must be held for some time to bring up the ring menu, consuming time during the limited duration of the stairwell scene.
+    - Pressing the dialogue button without pulling up the ring menu will cause Lyndi to stutter, prompting Lannet to stop briefly and respond with "What?" This increases Lannet's frustration.
+    - The ring menu also has the option to end the conversation, with Lyndi replying, "Never mind," which decreases frustration.
+    - Once outside the stairwell, after Lannet says, "Focus, we still have work to do," the interaction behaves as it did before, with Lyndi saying, "Hey Lannet" and Lannet replying, "Not now," dropping the conversation. The ring menu no longer shows additional options.
 
-Impact on Lannet:
-
-    Increase Frustration:
-        Engaging in the frustrated dialogue options.
-        Stuttering during the conversation.
-    Decrease Frustration:
-        Not having the conversation.
-        Choosing somber dialogue options.
-        Ending the conversation with "Never mind."
-    Increase Respect:
-        Choosing reflective dialogue options.
+- Impact on Lannet:
+  - Increase Frustration:
+    - Engaging in the frustrated dialogue options.
+    - Stuttering during the conversation.
+  - Decrease Frustration:
+    - Not having the conversation.
+    - Choosing somber dialogue options.
+    - Ending the conversation with "Never mind."
+  - Increase Respect:
+    - Choosing reflective dialogue options.
 
 
 [TOP▲](#toc)
