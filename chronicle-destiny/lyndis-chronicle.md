@@ -239,53 +239,45 @@ hospital
   - **Conversation Start**: Lyndi asks, "Lannet, why aren't we friends?" Lannet replies, "What are you talking about?"
   - **Replies**:
     - **Frustrated Replies:**
+      - "You always push me away, even when I try to help."
+      - "You never let anyone in, do you?"
+      - "Why do you have to be so difficult?"
+      - "We could have been close if you'd just let your guard down."
 
-    "You always push me away, even when I try to help."
-    "You never let anyone in, do you?"
-    "Why do you have to be so difficult?"
-    "We could have been close if you'd just let your guard down."
+    - **Somber Replies**:
+      - "I thought after nursing school, we'd at least be close."
+      - "I guess some things just never change, right?"
+      - "Do you ever wonder what it would be like if we were actually friends?"
 
-Somber Replies:
+    - **Reflective Replies**:
+      - "Remember our first year? I always admired how focused you were."
+      - "I learned a lot from watching you. You were always so determined."
+      - "Sometimes I wonder if I could be as dedicated as you are."
+      - "Maybe we just have different ways of caring, but I think we make a good team."
 
-    "I thought after nursing school, we'd at least be close."
-    "We went through all the same training, but we still feel distant."
-    "I guess some things just never change, right?"
-    "Do you ever wonder what it would be like if we were actually friends?"
+- **Lannet’s Reactions**:
+  - **To Frustrated Replies**:
+      - Lannet looks intensely at Lyndi for a moment.
+      - Lannet says, "Shut up."
+      - Lannet says, "Stop being nosy."
+      - Lannet stops, her right hand balls into a fist and shakes for a moment, then she resumes walking silently.
 
-Reflective Replies:
+  - **To Somber Replies**:
+      - Lannet looks down.
+      - Lannet says, "Stay focused."
+      - Lannet says, "Don't worry yourself."
+      - Lannet stops, crosses her arms, and remains silent for a moment, then resumes walking.
 
-    "Remember our first year? I always admired how focused you were."
-    "I learned a lot from watching you. You were always so determined."
-    "Sometimes I wonder if I could be as dedicated as you are."
-    "Maybe we just have different ways of caring, but I think we make a good team."
+  - **To Reflective Replies**:
+      - Lannet takes a deep breath.
+      - Lannet says, "I..."
+      - Lannet closes her eyes for a moment.
+      - Lannet stops, hands at her sides, looks down briefly before looking up and closing her eyes. She then resumes walking.
 
-Lannet’s Reactions:
-To Frustrated Replies:
+  - **End of Conversation**:
+Upon exiting the stairwell, regardless of the conversation's state, Lannet pauses and says, "Focus, we still have work to do," ending the dialogue.
 
-    Lannet looks intensely at Lyndi for a moment.
-    Lannet says, "Shut up."
-    Lannet says, "Stop being nosy."
-    Lannet stops, her right hand balls into a fist and shakes for a moment, then she resumes walking silently.
-
-To Somber Replies:
-
-    Lannet looks down.
-    Lannet says, "Stay focused."
-    Lannet says, "Don't worry yourself."
-    Lannet stops, crosses her arms, and remains silent for a moment, then resumes walking.
-
-To Reflective Replies:
-
-    Lannet takes a deep breath.
-    Lannet says, "I..."
-    Lannet closes her eyes for a moment.
-    Lannet stops, hands at her sides, looks down briefly before looking up and closing her eyes. She then resumes walking.
-
-End of Conversation:
-
-    Upon exiting the stairwell, regardless of the conversation's state, Lannet pauses and says, "Focus, we still have work to do," ending the dialogue.
-
-Conversation Mechanics:
+  - **Conversation Mechanics**:
 
     Normally, pressing the dialogue button will cause Lyndi to issue a simple greeting: "Hey, Lannet," to which Lannet always responds with "Not now," ending the conversation. Each attempt increases Lannet's frustration.
     If the player pulls up the dialogue ring menu without a subtle dialogue prompt, it will just show the greeting dialogue and nothing else.
