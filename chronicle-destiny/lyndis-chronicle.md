@@ -234,6 +234,81 @@ hospital
 
 ## Act 6: Going Upstairs {#act-6}
 
+- **Narrative**: After completing their tasks in the ward, Lyndi and Lannet head to the stairwell and proceed up to the second floor.
+- **Hidden Element**: During the ascent, a subtle dialogue prompt appears, indicating that Lyndi has something she wants to say. Holding the dialogue button to bring up the ring menu is the only way to engage in this conversation.
+  - **Conversation Start**: Lyndi asks, "Lannet, why aren't we friends?" Lannet replies, "What are you talking about?"
+  - **Replies**:
+    - **Frustrated Replies:**
+
+    "You always push me away, even when I try to help."
+    "You never let anyone in, do you?"
+    "Why do you have to be so difficult?"
+    "We could have been close if you'd just let your guard down."
+
+Somber Replies:
+
+    "I thought after nursing school, we'd at least be close."
+    "We went through all the same training, but we still feel distant."
+    "I guess some things just never change, right?"
+    "Do you ever wonder what it would be like if we were actually friends?"
+
+Reflective Replies:
+
+    "Remember our first year? I always admired how focused you were."
+    "I learned a lot from watching you. You were always so determined."
+    "Sometimes I wonder if I could be as dedicated as you are."
+    "Maybe we just have different ways of caring, but I think we make a good team."
+
+Lannet’s Reactions:
+To Frustrated Replies:
+
+    Lannet looks intensely at Lyndi for a moment.
+    Lannet says, "Shut up."
+    Lannet says, "Stop being nosy."
+    Lannet stops, her right hand balls into a fist and shakes for a moment, then she resumes walking silently.
+
+To Somber Replies:
+
+    Lannet looks down.
+    Lannet says, "Stay focused."
+    Lannet says, "Don't worry yourself."
+    Lannet stops, crosses her arms, and remains silent for a moment, then resumes walking.
+
+To Reflective Replies:
+
+    Lannet takes a deep breath.
+    Lannet says, "I..."
+    Lannet closes her eyes for a moment.
+    Lannet stops, hands at her sides, looks down briefly before looking up and closing her eyes. She then resumes walking.
+
+End of Conversation:
+
+    Upon exiting the stairwell, regardless of the conversation's state, Lannet pauses and says, "Focus, we still have work to do," ending the dialogue.
+
+Conversation Mechanics:
+
+    Normally, pressing the dialogue button will cause Lyndi to issue a simple greeting: "Hey, Lannet," to which Lannet always responds with "Not now," ending the conversation. Each attempt increases Lannet's frustration.
+    If the player pulls up the dialogue ring menu without a subtle dialogue prompt, it will just show the greeting dialogue and nothing else.
+    In the stairwell, when the subtle dialogue prompt appears, the ring menu will have "Lannet, why aren't we friends?" as an option. Selecting this starts the conversation.
+    After Lannet says, "What are you talking about?" the ring menu will show three of the replies, one from each category (Frustrated, Somber, Reflective). Selecting one will prompt Lannet's response.
+    Each time the ring menu is pulled up, a different set of three replies are shown. The dialogue button must be held for some time to bring up the ring menu, consuming time during the limited duration of the stairwell scene.
+    Pressing the dialogue button without pulling up the ring menu will cause Lyndi to stutter, prompting Lannet to stop briefly and respond with "What?" This increases Lannet's frustration.
+    The ring menu also has the option to end the conversation, with Lyndi replying, "Never mind," which decreases frustration.
+    Once outside the stairwell, after Lannet says, "Focus, we still have work to do," the interaction behaves as it did before, with Lyndi saying, "Hey Lannet" and Lannet replying, "Not now," dropping the conversation. The ring menu no longer shows additional options.
+
+Impact on Lannet:
+
+    Increase Frustration:
+        Engaging in the frustrated dialogue options.
+        Stuttering during the conversation.
+    Decrease Frustration:
+        Not having the conversation.
+        Choosing somber dialogue options.
+        Ending the conversation with "Never mind."
+    Increase Respect:
+        Choosing reflective dialogue options.
+
+
 [TOP▲](#toc)
 
 ---
