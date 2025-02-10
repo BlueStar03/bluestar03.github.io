@@ -1,4 +1,5 @@
 title: Destiny Saga
 author: zBuLe
-# Import the theme
-theme: jekyll-theme-chirpy
+
+
+markdown: GFM
