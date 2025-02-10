@@ -112,9 +112,10 @@ hospital
 
 - **Fail**: Lannet grabs Lyndi's hand and drags her to the first room.
 
-- **Impact on Lannet**
-
-  - **Increase Frustration**: Lannet having to drag Lyndi to the first room (Fail walk tutorial)
+> #### Impact on Lannet
+>
+>  - **Increase Frustration**: Lannet having to drag Lyndi to the first room (Fail walk tutorial)
+>
 
 [top↥](#toc)
 
@@ -132,11 +133,11 @@ hospital
 
 - **Fail**: Some moments after Lannet finishes her task, she will finish whatever remains on Lyndi's side.
 
-- **Impact on Lannet**:
-
-  - **Increase Frustration**: Each bed on the right side of the room that Lannet had to finish
-
-  - **Increase Respect**: not triggering struggle state 
+> #### Impact on Lannet
+>
+>  - **Increase Frustration**: Each bed on the right side of the room that Lannet had to finish
+>
+>  - **Increase Respect**: not triggering struggle state 
 
 [top](#toc)
 
@@ -156,13 +157,13 @@ hospital
 
 - **Additional**: If Lyndi checks Mr. Kendri's chart before speaking to him, he will initiate the conversation. Lyndi may also wake up the other patient, but he will be annoyed.
 
-- **Impact on Lannet**:
-
-  - **Increase Frustration**: Each bed on Lyndi's side that Lannet has to complete. If the conversation with Mr. Kendri takes too long and Lannet has to interrupt it. If Lyndi wakes up the sleeping patient.
-
-  - **Decrease Frustration**: If Lyndi doesn't trigger the struggle state.
-
-  - **Increase Respect**: Not triggering struggle state. Having a conversation with Mr. Kendri beyond the minimum "How are you feeling" without taking too long for Lannet to interrupt it. Talking to Mr. Kendri before checking his chart
+> #### Impact on Lannet
+>
+>  - **Increase Frustration**: Each bed on Lyndi's side that Lannet has to complete. If the conversation with Mr. Kendri takes too long and Lannet has to interrupt it. If Lyndi wakes up the sleeping patient.
+>
+>  - **Decrease Frustration**: If Lyndi doesn't trigger the struggle state.
+>
+>  - **Increase Respect**: Not triggering struggle state. Having a conversation with Mr. Kendri beyond the minimum "How are you feeling" without taking too long for Lannet to interrupt it. Talking to Mr. Kendri before checking his chart
 
 [TOP▲](#toc)
 
@@ -219,14 +220,14 @@ hospital
   - **Flannie (Focus)**: "Your focus is spot on. You two make a great team."
   - **Wilma (Warmth)**: "Your smile brings warmth to your patients."
 
-### **Impact on Lannet**:
-- **Increase Frustration**:
-  - Every bed Lannet has to finish in Lyndi's row.
-- **Decrease Frustration**:
-  - Not triggering the struggle state.
-- **Increase Respect**:
-  - Fulfilling additional tasks and requests from the patients.
-  - Finishing her row.
+> ### **Impact on Lannet**:
+> - **Increase Frustration**:
+>  - Every bed Lannet has to finish in Lyndi's row.
+> - **Decrease Frustration**:
+>  - Not triggering the struggle state.
+> - **Increase Respect**:
+>  - Fulfilling additional tasks and requests from the patients.
+>  - Finishing her row.
 
 [TOP▲](#toc)
 
@@ -288,16 +289,16 @@ Upon exiting the stairwell, regardless of the conversation's state, Lannet pause
     - The ring menu also has the option to end the conversation, with Lyndi replying, "Never mind," which decreases frustration.
     - Once outside the stairwell, after Lannet says, "Focus, we still have work to do," the interaction behaves as it did before, with Lyndi saying, "Hey Lannet" and Lannet replying, "Not now," dropping the conversation. The ring menu no longer shows additional options.
 
-- Impact on Lannet:
-  - Increase Frustration:
-    - Engaging in the frustrated dialogue options.
-    - Stuttering during the conversation.
-  - Decrease Frustration:
-    - Not having the conversation.
-    - Choosing somber dialogue options.
-    - Ending the conversation with "Never mind."
-  - Increase Respect:
-    - Choosing reflective dialogue options.
+> #### Impact on Lannet:
+>  - Increase Frustration:
+>    - Engaging in the frustrated dialogue options.
+>    - Stuttering during the conversation.
+>  - Decrease Frustration:
+>    - Not having the conversation.
+>    - Choosing somber dialogue options.
+>    - Ending the conversation with "Never mind."
+>  - Increase Respect:
+>    - Choosing reflective dialogue options.
 
 
 [TOP▲](#toc)
