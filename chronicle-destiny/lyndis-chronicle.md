@@ -90,11 +90,11 @@ hospital
 
 - **Hidden Element**: This is actually a hidden quick reaction tutorial. As soon as the scene fades in, Lannet approaches Lyndi from behind, startling her, which causes the clipboard to fall. The quick reaction prompt allows players to prevent the clipboard from dropping.
 
-- **Impact on Lannet**
-
-  - **Increase Frustration**: Lyndi being startled (failing the quick action). Lannet shoving the clipboard into Lyndi's hands (failing the action tutorial).
-
-  - **Increase Respect**: Lyndi retaining her composure (quick action success)
+> #### Impact on Lannet
+>
+>  - **Increase Frustration**: Lyndi being startled (failing the quick action). Lannet shoving the clipboard into Lyndi's hands (failing the action tutorial).
+>
+>  - **Increase Respect**: Lyndi retaining her composure (quick action success)
 
 [top](#toc)
 
