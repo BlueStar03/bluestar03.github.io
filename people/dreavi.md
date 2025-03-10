@@ -10,3 +10,7 @@ description: "Description of the Dreavi people"
 ![Dreavi Design Study](/images/dreavi_design_study.jpg "Dreavi Design Study")  
 
 ## Appearance
+
+---
+
+## Working Notes
