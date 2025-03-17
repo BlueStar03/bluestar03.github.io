@@ -383,6 +383,68 @@ Upon exiting the stairwell, regardless of the conversation's state, Lannet pause
 
 [TOP▲](#toc)
 
+
+
+---
+
+Act 7: Private Rooms - Advanced Tutorial
+
+Narrative: Lyndi and Lannet arrive at a hallway on the second floor, with three doors on the left and three on the right. These lead to private rooms reserved for important individuals. Lannet takes the three on the right, while Lyndi takes the three on the left.
+Prompt:
+
+    "You will check on Mr. Roth, Ms. Liya, and Mr. Gregor on the left."
+
+Action:
+
+    Update each chart, ask about each patient's well-being, and complete one task to enhance their comfort.
+    Interaction Options: The initial interaction with each patient changes based on whether Lyndi just opens the door, knocks, or knocks and announces herself. In addition to long-pressing, pulling up the action ring menu will also give the option to knock (action ring menu) or announce herself (dialogue ring menu).
+
+Struggle:
+
+    Before Lannet enters her first room, if Lyndi simply opens the door to her first room (by pressing the action button), Lannet will say, "Long press the action to knock at the door and long press the dialogue button to announce yourself next time." Lannet will enter her first room in such a manner, cluing the player on how to do it properly if they wait for Lannet to go first. Once Lannet enters her room, or if Lyndi knocks and announces herself, there will be no struggle.
+
+Fail:
+
+    Once Lannet finishes with her three rooms, she will complete any mandatory tasks that have not been completed in Lyndi's rooms.
+
+Lannet's Speed:
+
+    Lannet's speed in completing her tasks depends on how the stairwell conversation (Act 6) went:
+        Mostly Frustrating Replies: Fastest speed.
+        No Engagement or "Never Mind" Without Issuing Other Replies: Normal speed.
+        Mostly Somber Replies: Slower speed.
+        Mostly Reflective Replies: Slowest speed.
+
+Patient Order:
+
+    Patients can be tended to in any order.
+        Mr. Roth
+        Ms. Liya
+        Mr. Gregor 
+    Lannet's patients
+        Tina
+        Mr. Yara
+        Ms. Zoe
+
+
+Act 7.1: Mr. Roth
+
+Narrative: Mr. Roth is a wealthy donor to the hospital. There isn't really anything wrong with him; he's just taking a "vacation" to get away from it all. He is happy and cheerful. There are various tasks, requests, and dialogue options that can be completed. The bare minimum is to check his chart and ask if he is feeling well. Everything else is optional.
+
+Initial Interaction Responses:
+
+    Barges In: Mr. Roth raises an eyebrow and says, "Well, that was quite an entrance, Nurse. Ever heard of knocking?"
+    Knocks Only: Mr. Roth looks up and says, "Ah, come in, Nurse. No need to be shy."
+    Announces Herself: When Lyndi says, "Mr. Roth, it's Nurse Lyndi," Mr. Roth smiles warmly and responds, "Ah, Nurse Lyndi! Come in, come in. Glad to see you."
+
+Mr. Roth's Tasks:
+
+    Adjust the Pillows
+    Fetch a Newspaper
+    Bring a Glass of Water
+    Open the Curtains
+    Tidy Up the Side Table
+
 ---
 
 ### Act 13.B: Goodbye Lyndi {#act-13-b}
