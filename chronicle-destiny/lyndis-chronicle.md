@@ -355,12 +355,15 @@ Upon exiting the stairwell, regardless of the conversation's state, Lannet pause
   - Announces Herself: When Lyndi says, "Mr. Roth, it's Nurse Lyndi," Mr. Roth smiles warmly and responds, "Ah, Nurse Lyndi! Come in, come in. Glad to see you."
 
 - Mr. Roth's Tasks:
-
-  - Adjust the Pillows
-  - Fetch a Newspaper
-  - Bring a Glass of Water
-  - Open the Curtains
-  - Tidy Up the Side Table
+  - Initial Set
+    - Adjust the Pillows
+    - Fetch a Newspaper
+  - after completing two
+    - Bring a Glass of Water
+  - after compleating three
+    - Open the Curtains
+  - The last task
+    - Tidy Up the Side Table
 
 [TOP▲](#toc)
 
